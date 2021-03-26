@@ -6,7 +6,7 @@ I am also an open-source enthusiast. There is a plethora to learn from the open-
 
 
 #### Languages and Tools:
-<img src="https://i.ibb.co/cbXR4g7/ruby.png"> <img src="https://i.ibb.co/KLnWY8V/Sql.png">
+<img src="https://i.ibb.co/cbXR4g7/ruby.png"> <img src="https://i.ibb.co/Pm3jJNs/output-onlinepngtools.png">
 
 <!--
 **isabellevillasenor/isabellevillasenor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
