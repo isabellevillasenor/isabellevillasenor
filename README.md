@@ -5,7 +5,7 @@ I'm a passionate junior developer, that loves all things tech, code and advancem
 I am also an open-source enthusiast. There is a plethora to learn from the open-source community and I love how collaboration and knowledge sharing happens through open-source. 
 
 #### Connect with me:
-<a href="https://www.linkedin.com/in/isabelle-villasenor/"><img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>  <a href="mailto:villasenori@outlook.com"><img alt="email" width="35px" src="https://i.ibb.co/FY2JHM1/oie-g-JQe-N7-R0s-EJn.png"></a><br>
+<a href="https://www.linkedin.com/in/isabelle-villasenor/"><img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>  <a href="mailto:villasenori@outlook.com"><img align="left" alt="email" width="35px" src="https://i.ibb.co/FY2JHM1/oie-g-JQe-N7-R0s-EJn.png"></a><br>
 
 ---
 
