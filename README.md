@@ -6,7 +6,7 @@ I am also an open-source enthusiast. There is a plethora to learn from the open-
 
 
 #### Languages and Tools:
-<img src="https://i.ibb.co/cbXR4g7/ruby.png" width="20">  <img src="https://i.ibb.co/KLnWY8V/Sql.png" width="35">  <img src="https://i.ibb.co/vL4whjh/graphql.png">  <img src="https://i.ibb.co/7KKBRP2/rails.png">
+<img src="https://i.ibb.co/Ntky41m/ruby.png" width="20">  <img src="https://i.ibb.co/BgnrYDJ/SQL.png" width="35">  <img src="https://i.ibb.co/9Z0hZ7h/graphql.png" width="20">  <img src="https://i.ibb.co/v3F7P8R/rails.png" width="25">  <img src="https://i.ibb.co/TTP45pm/bootstrap.png" width="25">  <img src="https://i.ibb.co/0GmsfF0/pngwing-com-6.png" width="48"> <img src="https://i.ibb.co/yn3Wzt9/fe.png" width="80">  <img src="https://i.ibb.co/5TktZhc/pngwing-com-7.png" width="25">
 
 <!--
 **isabellevillasenor/isabellevillasenor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
