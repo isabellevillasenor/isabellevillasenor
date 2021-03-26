@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hey there, I'm Isabelle 👋
 
+I'm a passionate junior developer, that loves all things tech, code and advancement of the two. My passion for software lies with dreaming up ideas and making them come true with code that factors in effeciency as well as computation costs.
+
+I am also an open-source enthusiast. There is a plethora to learn from the open-source community and I love how collaboration and knowledge sharing happens through open-source. 
+
+
+#### Languages and Tools:
 <!--
 **isabellevillasenor/isabellevillasenor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
