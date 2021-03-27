@@ -5,7 +5,9 @@ I'm a passionate junior developer, that loves all things tech, code and advancem
 I am also an open-source enthusiast. There is a plethora to learn from the open-source community and I love how collaboration and knowledge sharing happens through open-source. 
 
 #### Connect with me:
-<a href="https://www.linkedin.com/in/isabelle-villasenor/"><img align="left" alt="linkedin" width="22px" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" /></a>  <a href="mailto:villasenori@outlook.com"><img align="left" alt="email" width="35px" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg"></a><br>
+<p align="center"> 
+ <a href="https://www.linkedin.com/in/isabelle-villasenor/"><img align="left" alt="linkedin" width="30px" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" /></a>  <a href="mailto:villasenori@outlook.com"><img align="left" alt="email" width="30px" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg"></a><br>
+</p>
 
 ---
 
