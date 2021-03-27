@@ -1,4 +1,4 @@
-### Hey there, I'm Isabelle <img align="right" width="150" height="100" src="https://media.giphy.com/media/qme8EofJpebsnSDeyB/giphy.gif">
+### Hey there, I'm Isabelle <img align="left" width="150" height="100" src="https://media.giphy.com/media/qme8EofJpebsnSDeyB/giphy.gif">
 
 I'm a passionate junior developer, that loves all things tech, code and advancement of the two. My passion for software lies with dreaming up ideas and making them come true with code that factors in effeciency as well as computation costs.
 
