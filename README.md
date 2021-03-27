@@ -52,9 +52,9 @@ I am also an open-source enthusiast. There is a plethora to learn from the open-
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=isabellevillasenor&show_icons=true&hide_border=true&theme=material-gradient&bg_color=0,ee9797,9198e5&title_color=ffffff&text_color=676767">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=isabellevillasenor&show_icons=true&hide_border=true&theme=material-gradient&bg_color=0,ee9797,9198e5&title_color=ffffff&text_color=676767"></img>
 
-<br>
+<br/>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellevillasenor&hide_border=true&theme=material-gradient&bg_color=0,ee9797,9198e5&title_color=ffffff&text_color=676767&layout=compact">
 <!--
