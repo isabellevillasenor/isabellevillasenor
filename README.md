@@ -48,6 +48,10 @@ I am also an open-source enthusiast. There is a plethora to learn from the open-
     <img src="https://i.ibb.co/5TktZhc/pngwing-com-7.png" width="25">
   </a>
   &nbsp; &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5">
+    <img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png">
+  </a>
+  &nbsp; &nbsp;
 </p>
 
 ---
