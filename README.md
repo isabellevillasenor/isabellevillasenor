@@ -49,7 +49,7 @@ I am also an open-source enthusiast. There is a plethora to learn from the open-
   </a>
   &nbsp; &nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5">
-    <img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png">
+    <img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png" width="25">
   </a>
   &nbsp; &nbsp;
 </p>
