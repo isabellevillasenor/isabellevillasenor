@@ -21,7 +21,7 @@ I am also an open-source enthusiast. There is a plethora to learn from the open-
 #### Languages and Tools:
 <p align="left">
   <a href="https://www.ruby-lang.org/en/documentation/">
-    <img src="https://i.ibb.co/Ntky41m/ruby.png" width="25">
+    <img src="https://i.ibb.co/Ntky41m/ruby.png" width="20">
   </a>
   &nbsp; &nbsp;
   <a href="https://docs.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver15">
@@ -29,7 +29,7 @@ I am also an open-source enthusiast. There is a plethora to learn from the open-
   </a>  
   &nbsp; &nbsp;
   <a href="https://graphql.org/code/">
-    <img src="https://i.ibb.co/9Z0hZ7h/graphql.png" width="25">
+    <img src="https://i.ibb.co/9Z0hZ7h/graphql.png" width="20">
   </a>  
   &nbsp; &nbsp;
   <a href="https://guides.rubyonrails.org/">
