@@ -71,6 +71,13 @@ I am also an open-source enthusiast. There is a plethora to learn from the open-
     <img src="https://i.ibb.co/tMTqnj0/javascrip.png" width="25">
   </a>
   &nbsp; &nbsp;
+  <a href="https://nodejs.org/en/docs/">
+    <img src="https://i.ibb.co/PCjxHth/node-js.png" width="25">
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://jestjs.io/">
+    <img src="https://i.ibb.co/B44dXDx/jest.png" width="25">
+  </a>
  </p>
 
 ---
