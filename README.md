@@ -21,7 +21,7 @@ I am also an open-source enthusiast. There is a plethora to learn from the open-
 #### Languages and Tools:
 <p align="left">
   <a href="https://www.ruby-lang.org/en/documentation/">
-    <img src="https://i.ibb.co/Ntky41m/ruby.png" width="20">
+    <img src="https://i.ibb.co/Ntky41m/ruby.png" width="25">
   </a>
   &nbsp; &nbsp;
   <a href="https://docs.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver15">
@@ -64,6 +64,14 @@ I am also an open-source enthusiast. There is a plethora to learn from the open-
     <img src="https://i.ibb.co/HT3WR00/pnghost-travis-ci-continuous-integration-software-build-ruby-software-deployment-ruby.png" width="25">
   </a>
 </p>
+
+##### Currently Learning
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">
+    <img src="https://i.ibb.co/tMTqnj0/javascrip.png" width="25">
+  </a>
+  &nbsp; &nbsp;
+ </p>
 
 ---
 
