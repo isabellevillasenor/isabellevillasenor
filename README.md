@@ -59,6 +59,10 @@ I am also an open-source enthusiast. There is a plethora to learn from the open-
   <a href="https://devcenter.heroku.com/categories/reference">
     <img src="https://i.ibb.co/dty9cZt/heroku.png" width="35">
   </a>
+    &nbsp; &nbsp;
+  <a href="https://docs.travis-ci.com/">
+    <img src="https://i.ibb.co/pJ3Hdqp/travis.png" width="25">
+  </a>
 </p>
 
 ---
