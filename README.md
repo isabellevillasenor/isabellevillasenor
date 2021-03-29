@@ -52,6 +52,9 @@ I am also an open-source enthusiast. There is a plethora to learn from the open-
     <img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png" width="25">
   </a>
   &nbsp; &nbsp;
+  <a href="https://rspec.info/">
+    <img src="https://i.ibb.co/D73pT3p/PNG.png" width="25">
+  </a>
 </p>
 
 ---
