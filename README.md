@@ -29,7 +29,7 @@ I am also an open-source enthusiast. There is a plethora to learn from the open-
   </a>  
   &nbsp; &nbsp;
   <a href="https://graphql.org/code/">
-    <img src="https://i.ibb.co/9Z0hZ7h/graphql.png" width="20">
+    <img src="https://i.ibb.co/9Z0hZ7h/graphql.png" width="25">
   </a>  
   &nbsp; &nbsp;
   <a href="https://guides.rubyonrails.org/">
