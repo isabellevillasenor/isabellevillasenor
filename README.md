@@ -61,7 +61,7 @@ I am also an open-source enthusiast. There is a plethora to learn from the open-
   </a>
     &nbsp; &nbsp;
   <a href="https://docs.travis-ci.com/">
-    <img src="https://i.ibb.co/pJ3Hdqp/travis.png" width="25">
+    <img src="https://i.ibb.co/pJ3Hdqp/travis.png" width="35">
   </a>
 </p>
 
