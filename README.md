@@ -82,9 +82,13 @@ I am also an open-source enthusiast. There is a plethora to learn from the open-
   <a href="https://docs.python.org/3/">
     <img src="https://i.ibb.co/W08Gsmy/python.png" width="25">
   </a>
-    &nbsp; &nbsp;
+   &nbsp; &nbsp;
   <a href="https://circleci.com/">
     <img src="https://i.ibb.co/BjCpL6B/circleci.png" width="25">
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://docs.pytest.org/en/stable/contents.html">
+    <img src="https://i.ibb.co/N3stzVW/pytest.png" width="25">
   </a>
  </p>
 
