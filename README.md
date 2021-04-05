@@ -4,22 +4,22 @@ I'm a passionate junior developer, that loves all things tech, code and advancem
 
 I am also an open-source enthusiast. There is a plethora to learn from the open-source community and I love how collaboration and knowledge sharing happens through open-source. 
 
-#### Connect with me:
+<h4 align="center">Connect with me:</h4>
 <p align="left"> 
   <a href="https://www.linkedin.com/in/isabelle-villasenor/" target="_blank" rel="noopener noreferrer">
     <img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn">
   </a>
   &nbsp; &nbsp;
   <a href="mailto:villasenori@outlook.com">
-    <img alt='ealt='' mail me!' src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="30px" alt="email"
+    <img alt='ealt='' mail me!' src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="30px" alt="email">
   </a>
   &nbsp; &nbsp;
 </p>
  
 ---
 
-#### Languages and Tools:
-<p align="left">
+<h4 align="center">Languages: </h4>
+<p align="center">
   <a href="https://www.ruby-lang.org/en/documentation/">
     <img src="https://i.ibb.co/Ntky41m/ruby.png" width="20">
   </a>
@@ -32,30 +32,43 @@ I am also an open-source enthusiast. There is a plethora to learn from the open-
     <img src="https://i.ibb.co/9Z0hZ7h/graphql.png" width="20">
   </a>  
   &nbsp; &nbsp;
-  <a href="https://guides.rubyonrails.org/">
-    <img src="https://i.ibb.co/v3F7P8R/rails.png" width="25">
-  </a>  
-  &nbsp; &nbsp;
   <a href="https://getbootstrap.com/docs/4.1/getting-started/introduction/">
     <img src="https://i.ibb.co/TTP45pm/bootstrap.png" width="25">
-  </a>
-  &nbsp; &nbsp;
-  <a href="https://www.postgresql.org/docs/">
-    <img src="https://i.ibb.co/MB9vrY4/postgresql.png" width="25">
-  </a>
-  &nbsp; &nbsp;
-  <a href="https://git-scm.com/docs/git">
-    <img src="https://i.ibb.co/5TktZhc/pngwing-com-7.png" width="25">
   </a>
   &nbsp; &nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5">
     <img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png" width="25">
   </a>
   &nbsp; &nbsp;
+</p>
+
+<h4 align="center">Frameworks & Databases:</h4>
+<p align="center">
+  <a href="https://guides.rubyonrails.org/">
+    <img src="https://i.ibb.co/v3F7P8R/rails.png" width="25">
+  </a>  
+  &nbsp; &nbsp;
+  <a href="https://www.postgresql.org/docs/">
+    <img src="https://i.ibb.co/MB9vrY4/postgresql.png" width="25">
+  </a>
+  &nbsp; &nbsp;
+</p>
+
+<h4 align="center">Testing & Version Control Tools:</h4>
+<p align="center">
   <a href="https://rspec.info/">
     <img src="https://i.ibb.co/D73pT3p/PNG.png" width="25">
   </a>
   &nbsp; &nbsp;
+  <a href="https://git-scm.com/docs/git">
+    <img src="https://i.ibb.co/5TktZhc/pngwing-com-7.png" width="25">
+  </a>
+  &nbsp; &nbsp;
+
+</p>
+
+<h4 align="center">Deployment & Integration:</h4>
+<p align="center">
   <a href="https://devcenter.heroku.com/categories/reference">
     <img src="https://i.ibb.co/dty9cZt/heroku.png" width="35">
   </a>
@@ -65,18 +78,14 @@ I am also an open-source enthusiast. There is a plethora to learn from the open-
   </a>
 </p>
 
-##### Currently Learning
-<p align="left">
+<h5 align="center">Currently Learning</h5>
+<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">
     <img src="https://i.ibb.co/tMTqnj0/javascrip.png" width="25">
   </a>
   &nbsp; &nbsp;
   <a href="https://nodejs.org/en/docs/">
     <img src="https://i.ibb.co/PCjxHth/node-js.png" width="25">
-  </a>
-  &nbsp; &nbsp;
-  <a href="https://jestjs.io/">
-    <img src="https://i.ibb.co/B44dXDx/jest.png" width="25">
   </a>
   &nbsp; &nbsp;
   <a href="https://docs.python.org/3/">
@@ -94,24 +103,17 @@ I am also an open-source enthusiast. There is a plethora to learn from the open-
 
 ---
 
-<img height="140" src="https://github-readme-stats.vercel.app/api?username=isabellevillasenor&show_icons=true&hide_border=true&theme=material-gradient&bg_color=0,ee9797,9198e5&title_color=ffffff&text_color=676767"> <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellevillasenor&hide_border=true&theme=material-gradient&bg_color=0,9198e5,ee9797&title_color=ffffff&text_color=676767&layout=compact">
+<h4 align="center">Practices & Processes</h4>
+<p align="center">
+  <img src="https://i.ibb.co/d6Y7rqH/OOP.png" width="50">
+  <img src="https://i.ibb.co/0J9K1cn/MVC.png" width="50">
+  <img src="https://i.ibb.co/9ZKDjfV/TDD.png" width="50">
+  <img src="https://i.ibb.co/8YHh8nK/REST.png" width="50">
+</p>
 
 ---
 
-<!--START_SECTION:activity-->
-
-
-
-<!--**isabellevillasenor/isabellevillasenor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4 align="center">GitHub Stats</h4>
+<p align="center">
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=isabellevillasenor&show_icons=true&hide_border=true&theme=material-gradient&bg_color=0,ee9797,9198e5&title_color=ffffff&text_color=676767"> <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellevillasenor&hide_border=true&theme=material-gradient&bg_color=0,9198e5,ee9797&title_color=ffffff&text_color=676767&layout=compact">
+</p>
