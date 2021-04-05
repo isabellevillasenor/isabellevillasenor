@@ -5,7 +5,7 @@ I'm a passionate junior developer, that loves all things tech, code and advancem
 I am also an open-source enthusiast. There is a plethora to learn from the open-source community and I love how collaboration and knowledge sharing happens through open-source. 
 
 <h4 align="center">Connect with me:</h4>
-<p align="left"> 
+<p align="center"> 
   <a href="https://www.linkedin.com/in/isabelle-villasenor/" target="_blank" rel="noopener noreferrer">
     <img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn">
   </a>
