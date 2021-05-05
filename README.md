@@ -85,7 +85,7 @@ I am also an open-source enthusiast. There is a plethora to learn from the open-
   </a>
   &nbsp; &nbsp;
   <a href="https://golang.org/doc/">
-    <img src="https://i.ibb.co/9HGmyXH/Go.png" width="25">
+    <img src="https://i.ibb.co/9HGmyXH/Go.png" width="30">
   </a>
  </p>
 
