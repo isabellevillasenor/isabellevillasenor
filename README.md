@@ -2,8 +2,6 @@
 
 I'm a passionate junior developer, that loves all things tech, code and advancement of the two. My passion for software lies with dreaming up ideas and making them come true with code that factors in effeciency as well as computation costs.
 
-I am also an open-source enthusiast. There is a plethora to learn from the open-source community and I love how collaboration and knowledge sharing happens through open-source. 
-
 <h4 align="center">Connect with me:</h4>
 <p align="center"> 
   <a href="https://www.linkedin.com/in/isabelle-villasenor/" target="_blank" rel="noopener noreferrer">
@@ -14,89 +12,6 @@ I am also an open-source enthusiast. There is a plethora to learn from the open-
     <img alt='ealt='' mail me!' src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="30px" alt="email">
   </a>
   &nbsp; &nbsp;
-</p>
- 
----
-
-<h4 align="center">Languages: </h4>
-<p align="center">
-  <a href="https://www.ruby-lang.org/en/documentation/">
-    <img src="https://i.ibb.co/Ntky41m/ruby.png" width="20">
-  </a>
-  &nbsp; &nbsp;
-  <a href="https://docs.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver15">
-    <img src="https://i.ibb.co/BgnrYDJ/SQL.png" width="35">
-  </a>  
-  &nbsp; &nbsp;
-  <a href="https://graphql.org/code/">
-    <img src="https://i.ibb.co/9Z0hZ7h/graphql.png" width="20">
-  </a>  
-  &nbsp; &nbsp;
-  <a href="https://getbootstrap.com/docs/4.1/getting-started/introduction/">
-    <img src="https://i.ibb.co/TTP45pm/bootstrap.png" width="25">
-  </a>
-  &nbsp; &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5">
-    <img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png" width="25">
-  </a>
-  &nbsp; &nbsp;
-</p>
-
-<h4 align="center">Frameworks & Databases:</h4>
-<p align="center">
-  <a href="https://guides.rubyonrails.org/">
-    <img src="https://i.ibb.co/v3F7P8R/rails.png" width="25">
-  </a>  
-  &nbsp; &nbsp;
-  <a href="https://www.postgresql.org/docs/">
-    <img src="https://i.ibb.co/MB9vrY4/postgresql.png" width="25">
-  </a>
-  &nbsp; &nbsp;
-</p>
-
-<h4 align="center">Testing & Version Control Tools:</h4>
-<p align="center">
-  <a href="https://rspec.info/">
-    <img src="https://i.ibb.co/D73pT3p/PNG.png" width="25">
-  </a>
-  &nbsp; &nbsp;
-  <a href="https://git-scm.com/docs/git">
-    <img src="https://i.ibb.co/5TktZhc/pngwing-com-7.png" width="25">
-  </a>
-  &nbsp; &nbsp;
-
-</p>
-
-<h4 align="center">Deployment & Integration:</h4>
-<p align="center">
-  <a href="https://devcenter.heroku.com/categories/reference">
-    <img src="https://i.ibb.co/dty9cZt/heroku.png" width="35">
-  </a>
-    &nbsp; &nbsp;
-  <a href="https://docs.travis-ci.com/">
-    <img src="https://i.ibb.co/HT3WR00/pnghost-travis-ci-continuous-integration-software-build-ruby-software-deployment-ruby.png" width="25">
-  </a>
-</p>
-
-<h5 align="center">Currently Learning</h5>
-<p align="center">
-  <a href="https://docs.docker.com/">
-    <img src="https://i.ibb.co/9yDnzhv/docker.png" width="25">
-  </a>
-  &nbsp; &nbsp;
-  <a href="https://golang.org/doc/">
-    <img src="https://i.ibb.co/9HGmyXH/Go.png" width="30">
-  </a>
- </p>
-
----
-
-<h4 align="center">Practices & Processes</h4>
-<p align="center">
-  <img src="https://i.ibb.co/d6Y7rqH/OOP.png" width="50">
-  <img src="https://i.ibb.co/0J9K1cn/MVC.png" width="50">
-  <img src="https://i.ibb.co/9ZKDjfV/TDD.png" width="50">
-  <img src="https://i.ibb.co/8YHh8nK/REST.png" width="50">
 </p>
 
 ---
