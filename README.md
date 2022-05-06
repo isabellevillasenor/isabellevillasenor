@@ -1,5 +1,7 @@
 ### Hey there, I'm Isabelle <img align="left" width="150" height="100" src="https://media.giphy.com/media/qme8EofJpebsnSDeyB/giphy.gif">
 
+Software Developer based in Denver, CO. Always open to collaborations!
+
 <h4 align="center">Connect with me:</h4>
 <p align="center"> 
   <a href="https://www.linkedin.com/in/isabelle-villasenor/" target="_blank" rel="noopener noreferrer">
