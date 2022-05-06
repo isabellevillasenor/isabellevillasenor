@@ -2,6 +2,7 @@
 
 Software Developer based in Denver, CO. Always open to collaborations!
 
+
 <h4 align="center">Connect with me:</h4>
 <p align="center"> 
   <a href="https://www.linkedin.com/in/isabelle-villasenor/" target="_blank" rel="noopener noreferrer">
