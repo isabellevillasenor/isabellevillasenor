@@ -1,4 +1,4 @@
-### Hey there, I'm Isabelle <img align="left" width="150" height="100" src="https://media.giphy.com/media/qme8EofJpebsnSDeyB/giphy.gif">
+### Hey there, I'm Isabelle
 
 Software Developer based in Denver, CO. Always open to collaborations!
 
